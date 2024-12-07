@@ -1,5 +1,5 @@
-# exclusive-calculator-for-exclusive-people
-i hate the fedora linux, thanks for reading
+# special-calculator-for-special-people
+i hate the linux, windows and macos thanks for reading
 
 
 kurwa czemu to nie chce dzialac
